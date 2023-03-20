@@ -122,10 +122,10 @@
         box-shadow: 2px 2px 10px gray;
     }
     .meninshirt{
-        flex-direction: column;
+        flex-wrap:wrap;
     }
     .pic3{
-        flex-direction: column;
+        flex-wrap:wrap;
     }
 }
     
